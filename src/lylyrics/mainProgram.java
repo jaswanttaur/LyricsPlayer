@@ -1,3 +1,5 @@
+//main file of the lyrics player
+
 package lylyrics;
 import javax.swing.*;
 public class mainProgram {
